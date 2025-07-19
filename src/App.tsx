@@ -152,7 +152,7 @@ const TodoApp: React.FC = () => {
             My Tasks
           </h1>
           <p className="text-lg text-slate-600 font-light">
-            Elegant task management for the discerning professional
+            Enjoy task management for the discerning professional
           </p>
         </div>
 
